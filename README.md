@@ -1,7 +1,13 @@
 # Adventures Of Lolo
+
+<em> Create a game similar to the old Adventures of Lolo (link below):</em>
+
+<a href= "https://www.youtube.com/watch?v=xUU4Jfj9Gjs"> Original Adventures of Lolo Gameplay</a> 
+
+<h4> Abs:</h4>
+
 First Game dev. by me @USP while enrolled in OOP course. 
 This game was made in Java (☕) while we learned some OOP topics such as hierarchy, classes, interfaces, Design Patterns and so on.
-
   
 ![startMenu](https://user-images.githubusercontent.com/50893051/192388877-91598752-2e62-422f-bea4-0ac3e86b7c80.png)
 
