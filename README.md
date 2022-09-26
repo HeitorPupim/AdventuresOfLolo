@@ -41,7 +41,7 @@ Elemento Animado (moving objects):
   <li> Egg (🥚 Whenever lolo touches a Cat/Skull it turns into an 🥚, which can be moved)</li>
   <li> Bloco Verde ( 🟪 purple block in  LVL3)</li>
   <li> Bau (💰 After collecting all hearts and touching the chest, next level will be generated)</li>
-  <li> Caveira (💀 Static element that cna be turned into 🥚) -</li>
+  <li> Caveira (💀 Static element that also turns into 🥚) -</li>
   <li> Coracao (❤️ - Lolo needs to collect all 6 hearts)</li>
   <li> Minhoca (🐱 - Static element that also turns into 🥚) </li>
   
