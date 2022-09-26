@@ -42,7 +42,7 @@ Elemento Animado (moving objects):
  
  Elemento Estático (static/movable object):
  <ul> 
-  <li> Agua (kills lolo)</li>
+  <li> Agua (💦 - kills lolo on collision)</li>
   <li> Arvore (🌳 obstacle object)</li>
   <li> Egg (🥚 Whenever lolo touches a Cat/Skull it turns into an 🥚, which can be moved)</li>
   <li> Bloco Verde ( 🟪 purple block in  LVL3)</li>
